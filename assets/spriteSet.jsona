@@ -1,0 +1,59 @@
+{"frames":[
+
+{
+	"filename": "title",
+	"frame":{"x":0,"y":0,"w":320,"h":70},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":320,"y":70},
+	"sourceSize":{"w":320,"h":70}
+},
+{
+	"filename": "bck",
+	"frame":{"x":0,"y":74,"w":302,"h":302},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":302,"y":302},
+	"sourceSize":{"w":302,"h":302}
+},
+{
+	"filename": "osc",
+	"frame":{"x":324,"y":0,"w":125,"h":125},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":125,"y":125},
+	"sourceSize":{"w":125,"h":125}
+},
+{
+	"filename": "so",
+	"frame":{"x":306,"y":129,"w":48,"h":48},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":48,"y":48},
+	"sourceSize":{"w":48,"h":48}
+},
+{
+	"filename": "soff",
+	"frame":{"x":306,"y":181,"w":48,"h":48},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":48,"y":48},
+	"sourceSize":{"w":48,"h":48}
+},
+{
+	"filename": "b",
+	"frame":{"x":358,"y":129,"w":15,"h":15},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":15,"y":15},
+	"sourceSize":{"w":15,"h":15}
+},
+{
+	"filename": "f",
+	"frame":{"x":358,"y":148,"w":15,"h":15},
+	"rotated":false,
+	"trimmed":false,
+	"spriteSourceSize":{"x":0,"y":0,"w":15,"y":15},
+	"sourceSize":{"w":15,"h":15}
+}
+]}

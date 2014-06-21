@@ -1,0 +1,10 @@
+{
+        "play" : "PLAY",
+        "easy" : "EASY",
+        "medium" : "MEDIUM",
+        "hard" : "HARD",
+        "score" : "Score",
+        "back" : "BACK",
+        "highscore" : "Highscore",
+        "instructions" : "Use arrow keys or\nonscreen controls\nto move the snake."
+}
